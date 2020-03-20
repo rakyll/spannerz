@@ -46,3 +46,7 @@ log.Fatal(http.ListenAndServe(":9090", nil))
 * Support different optimizer versions.
 * Support partition queries.
 * Support read/write transactions, we currently support read-only ones.
+
+## Disclaimer
+
+This is not an official Google product.
